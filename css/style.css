@@ -1,0 +1,121 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: serif;
+}
+
+
+
+.jumb01 {
+	background: #3fcab5 !important;
+}
+
+.icon {
+	color: #fff;
+	
+}
+
+.conteudo {
+	color: #fff;
+	padding-top: 10px;
+}
+
+.conteudo1 {
+	color: #fff;
+	padding-top: 10px;
+}
+
+.texto2 {
+	font-size: 30px;
+	padding-top: 30%;
+}
+
+.card {
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* carousel */
+.carousel-caption {
+	top: 40%;
+	bottom: auto;
+}
+
+
+
+/* buttons */
+.btn:focus {
+	outline: none;
+}
+
+.btn02 {
+	background-color: #15253f !important;
+	text-transform: uppercase;
+	border-color: #15253f !important;
+}
+
+.btn02:focus {
+	outline: none;
+}
+
+.btn03 {
+	background-color: #3fcab5 !important;
+	border-color: #3fcab5 !important;
+}
+
+/* form e btns */
+#formContato {
+	padding-left: 20%;
+}
+
+.form02 {
+	padding-left: 25%;
+}
+
+/* parallax */
+.secsite {
+	background-image: url('../img/03.jpg');
+	background-position: center top;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #fff;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.secsite02 {
+	background-image: url('../img/05.jpg');
+	background-position: center top;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #fff;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+/* textos */
+.texto {
+	font-size: 30px;
+	letter-spacing: 5px;
+}
+
+.test01 {
+	font-size: 30px;
+	letter-spacing: 5px;
+}
+
+.test02 {
+	font-size: 20px;
+	letter-spacing: 3px;
+	color: #3fcab5;
+}
+
+.texto03 {
+		font-size: 20px;
+	letter-spacing: 3px;
+}
+
+.texto06 {
+	color: #fff;
+}
+
+/* media */
